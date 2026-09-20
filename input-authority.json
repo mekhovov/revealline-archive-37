@@ -1,0 +1,13 @@
+{
+  "version": "v0.69.1",
+  "releaseId": 392443624,
+  "source": "540968774b9aed8bafe4446ee22378b9021b3df9",
+  "tree": "b55b19ed2d052e89810e112f57ba7da6c13d1c36",
+  "tagObject": "cb2b368b2a1652920250c6c2a7055051018ece55",
+  "donorCommit": "44677c2c6a4704578e6f0542a8181a51eafa3484",
+  "donorDeploymentMerge": "f47c70dc37ab1948fed02b0148589c4e9c10574c",
+  "priorAcceptedPaths": 0,
+  "mainPublicByteReview": ".cache/v0691-public-audit-preparation-r1/runs/public-648271c-r1/report.json",
+  "mainPublicKeyboardReview": ".cache/v0691-public-native-r1/recovery-acceptance.json",
+  "archivePublicAcceptance": false
+}
