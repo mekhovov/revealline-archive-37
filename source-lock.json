@@ -24,9 +24,26 @@
         "bytes": 112720,
         "sha256": "6ac93602e1c3e2c2711ec6972c879edac1170316732113acd2b752dd8accc82d"
       }
+    },
+    {
+      "version": "v0.69.2",
+      "sourceRevision": "e1b58ad673f30bddda15ff66b76c03d149e155e1",
+      "sourceTree": "7a3f98eadca83439d307318661f05d0bad277b43",
+      "tagObject": "5a1f832ba77f3f8541829596cb720c3848e19ad2",
+      "distributionSha256": "db16c67bc3895c6071f2a00020f51686ed87897922f3537c049e71de6a1077b2",
+      "distributionBytes": 340037079,
+      "metadata": {
+        "release.json": "8dd97dd1bac15211e1210a7ebe87a9fdfd13619cc9dd28ac1ed241138898f916",
+        "manifest.json": "1d8aae590f75299cc31aab6b97a4f3b73f04bb65174e592f00f2b35a54e817bc",
+        "distribution.zip.sha256": "24a438b567f1e79e2f14a7be52d71133dce6e78ea2a1b1ee757a961952c2c28b"
+      },
+      "sourceQualification": {
+        "bytes": 105113,
+        "sha256": "2ba7412e2e03b1dbbff45a8c1ee683a569148fabdd64c91684148201997e18cb"
+      }
     }
   ],
-  "expectedInventorySha256": "f99dee2708d0bbb95458d19959e525689bc24a5a64728f85e34224401166d6c2",
-  "expectedFiles": 780,
-  "expectedBytes": 340018633
+  "expectedInventorySha256": "92439da8f38e1dd0f2f2f5e7f0582b11325940e398925c42e4e2add46f3a9e7a",
+  "expectedFiles": 1557,
+  "expectedBytes": 680029417
 }
